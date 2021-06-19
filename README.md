@@ -1,3 +1,3 @@
 # Web-Mining
 
-Perfomed web scraping on QMUL links.
+Perfomed web scraping on university links.
